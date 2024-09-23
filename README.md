@@ -1,9 +1,10 @@
-
-    <!--<h1 align="center">One8Manager</h1>-->
+<p align="center">
+    <--<h1 align="center">One8Manager</h1>-->
     <h4 align="center">
       A fast and dead-simple password/credential manager app
     </h4>
   <br>
+</p>
 
 
 The " One8 Manager " allows users to securely store and manage their passwords and other sensitive information, using encryption to protect the data locally (more securely). The application includes features such as the ability to add, edit, and delete credentials and search for credentials based on specific criteria.
