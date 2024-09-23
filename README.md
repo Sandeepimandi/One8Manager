@@ -36,24 +36,8 @@ This is useful for managing personal passwords and other sensitive information. 
 
 * The script requires [Tkinter](https://docs.python.org/3/library/tkinter.html) and [CustomTkinter](https://customtkinter.tomschimansky.com/) libraries  for the **GUI** version of the script
     - run `pip install tk` and `pip install customtkinter` to install the library
-  
-* Get the source [code](https://github.com/SandeepImandi01/One8Manager/archive/refs/heads/main.zip)
 
-* Extract the zip and open <b> main.py</b> or <b> GUI_main.py</b> in Python IDE to build and run the Password Manager app.</br>
-
-## Download
-
-[Latest stable release.](https://github.com/Sandeepimandi/One8Manager/releases/latest)
-
-Releases and prereleases contain links to standalone packages
-(and installers for full releases) for Windows
-  
-_Your computer must be running Windows 10 or newer._
-
-* Install the latest version of the Application. [Download v2.0](https://github.com/Sandeepimandi/One8Manager/releases/download/v2.0/One8Manager_setup.exe)
-* Portable version [Download v2.0](https://github.com/Sandeepimandi/One8Manager/releases/download/v2.0/One8Manager.exe)
-
-<br/>
+* clone the repository and open <b> main.py</b> or <b> GUI_main.py</b> in Python IDE to build and run the Password Manager app.</br>
 
 ## Intro
 
