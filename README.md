@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/iso-logo.png?raw=true" height="300px"/>
+    <img src="iso-logo.png?raw=true" height="300px"/>
     <!--<h1 align="center">One8Manager</h1>-->
     <h4 align="center">
       A fast and dead-simple password/credential manager app
