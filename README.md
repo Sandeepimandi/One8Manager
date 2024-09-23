@@ -1,5 +1,5 @@
 <p align="center">
-    <--<h1 align="center">One8Manager</h1>-->
+    <h1 align="center">One8Manager</h1>
     <h4 align="center">
       A fast and dead-simple password/credential manager app
     </h4>
