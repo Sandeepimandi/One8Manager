@@ -1,20 +1,9 @@
-<p align="center">
-    <img src="iso-logo.png?raw=true" height="300px"/>
+
     <!--<h1 align="center">One8Manager</h1>-->
     <h4 align="center">
       A fast and dead-simple password/credential manager app
     </h4>
   <br>
-</p>
-
-
-<!-- Badge section -->
-
-[![Releases](https://img.shields.io/badge/Github-Releases-blue)](https://github.com/Sandeepmandi/One8Manager/releases)
-[![license](https://img.shields.io/github/license/Sandeepimandi/One8Manager)](LICENSE)
-[![Languages](https://img.shields.io/badge/Python-FFD43B?&logo=python&logoColor=blue)](main.py)
-[![OS](https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white)](README.md) <!--added redme links, just to not go elseweher -->
-[![Github All Releases](https://img.shields.io/github/downloads/Sandeepimandi/One8Manager/total?label=Downloads)](https://github.com/Sandeepimandi/One8Manager/releases/download/v2.0/MYPmanager_setup.exe)
 
 
 The " One8 Manager " allows users to securely store and manage their passwords and other sensitive information, using encryption to protect the data locally (more securely). The application includes features such as the ability to add, edit, and delete credentials and search for credentials based on specific criteria.
@@ -67,12 +56,12 @@ _Your computer must be running Windows 10 or newer._
 
 ## Intro
 
-![Intro GIF](assets/intro-add_function-use-gif.gif)</br>
+![Intro GIF](intro-add_function-use-gif.gif)</br>
 
 
 ## Uses
 
-![Uses GIF](assets/search-use-gif.gif)</br>
+![Uses GIF](search-use-gif.gif)</br>
 
 
 ## Reporting Issues & Contributions
